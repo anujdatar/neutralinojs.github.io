@@ -3,6 +3,8 @@
 Neutralino v2 is ready for Linux/Windows. You can try this [pre-release](https://github.com/neutralinojs/neutralinojs/releases/tag/v2.0.0).
 Please notice that the macOS version is not yet supporting v2 implementaton (still in v1.5.0). If you are interested, you can [help ❤️](https://github.com/neutralinojs/neutralinojs/issues/395) us to implement v2-spec for macOS.
 
+Also, we are [upgrading](https://github.com/neutralinojs/neutralinojs.github.io/tree/docs-v2) our documentation with [Docusaurus](https://docusaurus.io/). The current documentation has content for the v1.x implementation. If you have any question regarding v2.x API, feel free to ask via a Github issue or [discussion thread](https://github.com/neutralinojs/neutralinojs/discussions).
+
 <div align="center">
   <img src="https://cdn.rawgit.com/neutralinojs/neutralinojs.github.io/b667f2c2/docs/nllogo.png" style="width:300px;"/>
 </div>
